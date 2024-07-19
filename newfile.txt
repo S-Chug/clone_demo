@@ -1,1 +1,8 @@
 branch file
+git clone
+git pull
+git push 
+git fetch
+git comit
+git add
+git status
