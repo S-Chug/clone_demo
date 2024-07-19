@@ -3,4 +3,5 @@ git clone
 git pull
 git push 
 git fetch
-
+git comit
+git add
