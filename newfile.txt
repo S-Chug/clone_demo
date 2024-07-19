@@ -2,3 +2,5 @@ branch file
 git clone
 git pull
 git push 
+git fetch
+
